@@ -1,0 +1,1 @@
+allPlatziWorkers = [worker["name"]]
