@@ -1,1 +1,0 @@
-allPlatziWorkers = [worker["name"]]
